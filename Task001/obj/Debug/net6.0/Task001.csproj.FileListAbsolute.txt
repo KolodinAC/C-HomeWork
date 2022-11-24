@@ -1,0 +1,15 @@
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\HomeWork\Task001\bin\Debug\net6.0\Task001.exe
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\HomeWork\Task001\bin\Debug\net6.0\Task001.deps.json
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\HomeWork\Task001\bin\Debug\net6.0\Task001.runtimeconfig.json
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\HomeWork\Task001\bin\Debug\net6.0\Task001.dll
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\HomeWork\Task001\bin\Debug\net6.0\Task001.pdb
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\HomeWork\Task001\obj\Debug\net6.0\Task001.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\HomeWork\Task001\obj\Debug\net6.0\Task001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\HomeWork\Task001\obj\Debug\net6.0\Task001.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\HomeWork\Task001\obj\Debug\net6.0\Task001.AssemblyInfo.cs
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\HomeWork\Task001\obj\Debug\net6.0\Task001.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\HomeWork\Task001\obj\Debug\net6.0\Task001.dll
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\HomeWork\Task001\obj\Debug\net6.0\refint\Task001.dll
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\HomeWork\Task001\obj\Debug\net6.0\Task001.pdb
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\HomeWork\Task001\obj\Debug\net6.0\Task001.genruntimeconfig.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\HomeWork\Task001\obj\Debug\net6.0\ref\Task001.dll
